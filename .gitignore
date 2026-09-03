@@ -8,5 +8,6 @@ __pycache__/
 .pytest_cache/
 
 
+
 # Arquivos de ambiente (caso usem futuramente)
 .env 
